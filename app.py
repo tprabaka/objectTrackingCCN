@@ -209,4 +209,4 @@ with gr.Blocks() as app:
         live_button.click(fn=start_camera, outputs=[])
         stop_button.click(fn=stop_camera, outputs=[live_summary, live_output_video])
 
-app.launch()
+app.launch(server_name="0.0.0.0", server_port=8080)
