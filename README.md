@@ -1,4 +1,4 @@
-# Yolov7 + StrongSORT with OSNet
+# Team 17 Object Tracking Project using Yolov7 + StrongSORT with OSNet
 
 
 
@@ -16,7 +16,7 @@
 This project is based on the [Yolov7_StrongSORT_OSNet] (https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) by author Mikel Broström.
 The original work is licensed by GNU GENERAL PUBLIC LICENSE. Some modifications and adaptation have been made to suit the needs of this project.
 
-## Before you run the tracker
+## Before you run the app
 
 1. Clone the repository recursively:
 
@@ -34,6 +34,6 @@ After installing all the packages from requirements. Run the [app.py](https://gi
 
 `python app.py`
 
-Then in the command it will the show the link in which the projecct is running it should mostly be this website address. Cross check woth console to see the correcct URL.
+Then in the command it will the show the link in which the projecct is running it should mostly be this website address. Cross check with the console to see the correct URL.
 
 `http://0.0.0.0:8080`
